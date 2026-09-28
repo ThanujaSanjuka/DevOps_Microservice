@@ -52,7 +52,7 @@ int main() {
     cout << "[SYSTEM LOG] Initializing Microservice...\n\n";
 
     
-    EngineeringStudent student("Thanuja Sanjuka", "24/ENG/146", "Software Engineering & DevOps based");
+    EngineeringStudent student("Thanuja Sanjuka Silva", "24/ENG/146", "Software Engineering & DevOps based");
 
     
     cout << student;
